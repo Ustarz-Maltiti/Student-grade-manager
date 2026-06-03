@@ -27,3 +27,19 @@ How to Run;
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ustarz-Maltiti/Student-grade-manager.git
+
+What I Learned;
+- Structuring a Java project using OOP principles
+- Managing data with arrays and collections
+- Writing clean, readable, and modular Java code
+- Thinking about real-world problems through code
+
+---
+
+Author;
+
+Mohammed-Awal Yakubu (Ustarz)
+BIS Student | Aspiring Full-Stack Developer
+University for Development Studies, Ghana
+[LinkedIn](https://linkedin.com/in/your-link) •
+[GitHub](https://github.com/Ustarz-Maltiti)
